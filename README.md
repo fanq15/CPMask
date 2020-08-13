@@ -1,2 +1,2 @@
 # Coming soon
-CPMask is coming soon with [FSOD](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf) in an open source toolbox on top of [Detectron2](https://github.com/facebookresearch/detectron2) for data-limited tasks, e.g., few-shot object detection, few-shot instance segmentation, partially supervised instance segmentation and so on.
+CPMask will be released at [FewX](https://github.com/fanq15/FewX) with [FSOD](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf).
